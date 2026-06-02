@@ -1,0 +1,12 @@
+Saved Model   : Random Forest
+Accuracy      : 95.4%
+Note          : Random Forest selected for SHAP compatibility (TreeExplainer requires tree-based models)
+Training date : 2026-05-31 18:49:04
+Dataset size  : 863 chunks
+Real chunks   : 536
+Fake chunks   : 327
+
+All model accuracies:
+  Random Forest             : 95.4%
+  Gradient Boosting         : 92.5%
+  SVM                       : 98.8%
